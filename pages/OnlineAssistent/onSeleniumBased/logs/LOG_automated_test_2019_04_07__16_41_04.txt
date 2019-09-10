@@ -1,0 +1,13 @@
+Giving the server 0s to handle the email
+Getting emails for query: 'b'(TO "zmertes@on-testing.de" SINCE "05-Apr-2019" SUBJECT "Das ist der passende Tarif f\xc3\xbcr dich.")''
+Attempt #0/120... failed
+Attempt #1/120... failed
+Attempt #2/120... failed
+Attempt #3/120... failed
+Attempt #4/120... failed
+Attempt #5/120... failed
+Attempt #6/120... failed
+Attempt #7/120... failed
+Attempt #8/120... failed
+Attempt #9/120... failed
+Attempt #10/120... failed

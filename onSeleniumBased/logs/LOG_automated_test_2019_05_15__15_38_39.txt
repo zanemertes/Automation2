@@ -1,0 +1,3 @@
+Giving the server 0s to handle the email
+Getting emails for query: 'b'(TO "zmertes+Student-1557927519@on-testing.de" SINCE "01-Apr-2019" SUBJECT "Bitte best\xc3\xa4tige deine E-Mail-Adresse.")''
+Attempt #0/120... failed
